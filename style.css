@@ -1,0 +1,12 @@
+.row{
+    text-align: center;
+}
+.row img{
+    float: right;
+}
+.carousel-item{
+    padding:20px 40px;
+}
+.container-carousel{
+background-color:bisque ;
+}
