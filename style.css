@@ -1,12 +1,22 @@
-.row{
-    text-align: center;
-}
-.row img{
-    float: right;
+
+.container{
+    margin-bottom: 100px;
 }
 .carousel-item{
-    padding:20px 40px;
+    background-color:cornsilk;
+    padding: 40px 40px;
 }
-.container-carousel{
-background-color:bisque ;
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color:crimson;
+}
+.Buy-Now{
+    background-image: linear-gradient(tomato,orange);
+    padding: 9px 25px;
+    border: none;
+    border-radius: 8px;
+    color: aliceblue;
+    cursor: pointer;
 }
